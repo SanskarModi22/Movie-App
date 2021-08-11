@@ -1,4 +1,4 @@
-# calculator
+# Movie App
 
 A new Flutter application.
 
